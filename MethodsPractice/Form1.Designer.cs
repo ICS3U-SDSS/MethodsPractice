@@ -178,7 +178,7 @@ namespace MethodsPractice
             // q5Num2Input
             // 
             this.q5Num2Input.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.q5Num2Input.Location = new System.Drawing.Point(89, 48);
+            this.q5Num2Input.Location = new System.Drawing.Point(89, 57);
             this.q5Num2Input.Name = "q5Num2Input";
             this.q5Num2Input.Size = new System.Drawing.Size(100, 24);
             this.q5Num2Input.TabIndex = 15;
@@ -188,7 +188,7 @@ namespace MethodsPractice
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(27, 51);
+            this.label1.Location = new System.Drawing.Point(27, 60);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(56, 18);
             this.label1.TabIndex = 14;
@@ -197,7 +197,7 @@ namespace MethodsPractice
             // q5Num1Input
             // 
             this.q5Num1Input.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.q5Num1Input.Location = new System.Drawing.Point(89, 22);
+            this.q5Num1Input.Location = new System.Drawing.Point(89, 31);
             this.q5Num1Input.Name = "q5Num1Input";
             this.q5Num1Input.Size = new System.Drawing.Size(100, 24);
             this.q5Num1Input.TabIndex = 13;
@@ -207,7 +207,7 @@ namespace MethodsPractice
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(27, 25);
+            this.label2.Location = new System.Drawing.Point(27, 34);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(56, 18);
             this.label2.TabIndex = 12;
@@ -227,7 +227,7 @@ namespace MethodsPractice
             // q5Num3Input
             // 
             this.q5Num3Input.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.q5Num3Input.Location = new System.Drawing.Point(89, 74);
+            this.q5Num3Input.Location = new System.Drawing.Point(89, 83);
             this.q5Num3Input.Name = "q5Num3Input";
             this.q5Num3Input.Size = new System.Drawing.Size(100, 24);
             this.q5Num3Input.TabIndex = 17;
@@ -237,7 +237,7 @@ namespace MethodsPractice
             // 
             this.num3Label.AutoSize = true;
             this.num3Label.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.num3Label.Location = new System.Drawing.Point(27, 77);
+            this.num3Label.Location = new System.Drawing.Point(27, 86);
             this.num3Label.Name = "num3Label";
             this.num3Label.Size = new System.Drawing.Size(56, 18);
             this.num3Label.TabIndex = 16;
