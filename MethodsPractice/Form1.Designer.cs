@@ -95,7 +95,6 @@ namespace MethodsPractice
             this.q2Output.Name = "q2Output";
             this.q2Output.Size = new System.Drawing.Size(179, 55);
             this.q2Output.TabIndex = 2;
-            this.q2Output.Text = "Question 2 Output Area";
             this.q2Output.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // q3Output
@@ -107,7 +106,6 @@ namespace MethodsPractice
             this.q3Output.Name = "q3Output";
             this.q3Output.Size = new System.Drawing.Size(179, 33);
             this.q3Output.TabIndex = 3;
-            this.q3Output.Text = "Question 3 Output Area";
             this.q3Output.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // num1Label
@@ -175,7 +173,6 @@ namespace MethodsPractice
             this.q4Output.Name = "q4Output";
             this.q4Output.Size = new System.Drawing.Size(179, 42);
             this.q4Output.TabIndex = 8;
-            this.q4Output.Text = "Question 4 Output Area";
             this.q4Output.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // q5Num2Input
@@ -225,7 +222,6 @@ namespace MethodsPractice
             this.q5Output.Name = "q5Output";
             this.q5Output.Size = new System.Drawing.Size(179, 41);
             this.q5Output.TabIndex = 11;
-            this.q5Output.Text = "Question 5 Output Area";
             this.q5Output.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // q5Num3Input
