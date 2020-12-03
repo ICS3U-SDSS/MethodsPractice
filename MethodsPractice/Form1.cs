@@ -44,7 +44,7 @@ namespace MethodsPractice
 
         }
 
-        // 3. Create a method to get numbers from q2Num1Input and q2Num2Input,
+        // 3. Create a method to get numbers from q3Num1Input and q3Num2Input,
         //    add them together, and then display output as follows, (use the variables):
         //
         //    5 + 4 = 9 
