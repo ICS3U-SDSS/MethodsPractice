@@ -35,8 +35,8 @@ namespace MethodsPractice
             this.q2Output = new System.Windows.Forms.Label();
             this.q3Output = new System.Windows.Forms.Label();
             this.num1Label = new System.Windows.Forms.Label();
-            this.q2Num1Input = new System.Windows.Forms.TextBox();
-            this.q2Num2Input = new System.Windows.Forms.TextBox();
+            this.q3Num1Input = new System.Windows.Forms.TextBox();
+            this.q3Num2Input = new System.Windows.Forms.TextBox();
             this.num2Label = new System.Windows.Forms.Label();
             this.radiusInput = new System.Windows.Forms.TextBox();
             this.radiusLabel = new System.Windows.Forms.Label();
@@ -118,23 +118,23 @@ namespace MethodsPractice
             this.num1Label.TabIndex = 4;
             this.num1Label.Text = "Num 1:";
             // 
-            // q2Num1Input
+            // q3Num1Input
             // 
-            this.q2Num1Input.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.q2Num1Input.Location = new System.Drawing.Point(85, 32);
-            this.q2Num1Input.Name = "q2Num1Input";
-            this.q2Num1Input.Size = new System.Drawing.Size(100, 24);
-            this.q2Num1Input.TabIndex = 5;
-            this.q2Num1Input.Text = "0";
+            this.q3Num1Input.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.q3Num1Input.Location = new System.Drawing.Point(85, 32);
+            this.q3Num1Input.Name = "q3Num1Input";
+            this.q3Num1Input.Size = new System.Drawing.Size(100, 24);
+            this.q3Num1Input.TabIndex = 5;
+            this.q3Num1Input.Text = "0";
             // 
-            // q2Num2Input
+            // q3Num2Input
             // 
-            this.q2Num2Input.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.q2Num2Input.Location = new System.Drawing.Point(85, 58);
-            this.q2Num2Input.Name = "q2Num2Input";
-            this.q2Num2Input.Size = new System.Drawing.Size(100, 24);
-            this.q2Num2Input.TabIndex = 7;
-            this.q2Num2Input.Text = "0";
+            this.q3Num2Input.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.q3Num2Input.Location = new System.Drawing.Point(85, 58);
+            this.q3Num2Input.Name = "q3Num2Input";
+            this.q3Num2Input.Size = new System.Drawing.Size(100, 24);
+            this.q3Num2Input.TabIndex = 7;
+            this.q3Num2Input.Text = "0";
             // 
             // num2Label
             // 
@@ -271,9 +271,9 @@ namespace MethodsPractice
             // 
             this.groupBox3.Controls.Add(this.q3Output);
             this.groupBox3.Controls.Add(this.num1Label);
-            this.groupBox3.Controls.Add(this.q2Num1Input);
+            this.groupBox3.Controls.Add(this.q3Num1Input);
             this.groupBox3.Controls.Add(this.num2Label);
-            this.groupBox3.Controls.Add(this.q2Num2Input);
+            this.groupBox3.Controls.Add(this.q3Num2Input);
             this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox3.ForeColor = System.Drawing.Color.White;
             this.groupBox3.Location = new System.Drawing.Point(18, 320);
@@ -364,8 +364,8 @@ namespace MethodsPractice
         private System.Windows.Forms.Label q2Output;
         private System.Windows.Forms.Label q3Output;
         private System.Windows.Forms.Label num1Label;
-        private System.Windows.Forms.TextBox q2Num1Input;
-        private System.Windows.Forms.TextBox q2Num2Input;
+        private System.Windows.Forms.TextBox q3Num1Input;
+        private System.Windows.Forms.TextBox q3Num2Input;
         private System.Windows.Forms.Label num2Label;
         private System.Windows.Forms.TextBox radiusInput;
         private System.Windows.Forms.Label radiusLabel;
