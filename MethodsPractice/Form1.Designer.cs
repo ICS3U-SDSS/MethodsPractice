@@ -344,6 +344,7 @@ namespace MethodsPractice
             this.Controls.Add(this.testButton);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Methods Practice";
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
